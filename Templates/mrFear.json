@@ -1,0 +1,35 @@
+{
+  "sideMenu": {
+    
+    "marginLeft": "0",
+    "marginTop": "2%",
+    
+    "button": {
+      "color":                 "#FF6A5F",
+      "fontSize":              "80%",
+      "backgroundColor":       "rgba(255, 249, 227, .7)",
+      "hoverColor":            "#003C84",
+      "hoverBackgroundColor":  "rgba(255,255,255, .4)"
+    },
+
+    "subMenu":{
+      "button":{
+          "color":                 "#FF6A5F",
+          "backgroundColor":       "rgba(255, 249, 227, .5)",
+          "hoverColor":            "#003C84",
+          "hoverBackgroundColor":  "rgba(255, 249, 227, .7)"
+      }
+    }
+  
+  },
+  
+  "body": {
+    "backgroundColor": "#FAC995"
+  },
+
+  "mainImg": {
+    "left": "30%",
+    "width": "100%",
+    "src": "Imgs/mrFear5.png"
+  }
+}
